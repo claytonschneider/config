@@ -31,7 +31,7 @@ findandreplace() {
 }
 
 # Git Shortcuts
-alias clean="git clean -f -d"
+alias gclean="git clean -f -d"
 alias gpl="git pull"
 alias gp="git push"
 alias gs="git status"
